@@ -1,5 +1,4 @@
 from torch.utils.data import Dataset
-from sklearn.preprocessing import LabelEncoder
 from PIL import Image
 from torchvision import transforms
 
