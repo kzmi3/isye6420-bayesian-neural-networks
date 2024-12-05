@@ -1,0 +1,192 @@
+[
+    {
+        "lr": 0.01,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 1,
+        "train_loss": 1.3418644357120897,
+        "best_val_loss": 0.6765647283331915,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.01_batch_16.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.2951540802059795,
+        "best_val_loss": 0.2683024340224537,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.01_batch_16.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 8,
+        "train_loss": 0.3473819522356445,
+        "best_val_loss": 0.3454032386907122,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.01_batch_32.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.3288893823596564,
+        "best_val_loss": 0.33938755663958464,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.01_batch_64.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.3210781010564955,
+        "best_val_loss": 0.2774096146564592,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.001_batch_16.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 9,
+        "train_loss": 0.5473165330561724,
+        "best_val_loss": 0.5217887050726197,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.001_batch_32.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 9,
+        "train_loss": 0.8689290537075562,
+        "best_val_loss": 0.8263201215050437,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.001_batch_64.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.8950279939567948,
+        "best_val_loss": 1.1278631920164282,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.0001_batch_16.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 5,
+        "train_loss": 1.3186341705647382,
+        "best_val_loss": 1.4313432866876776,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.0001_batch_32.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 2,
+        "train_loss": 1.6354824748906223,
+        "best_val_loss": 1.5407449007034302,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\checkpoints\\best_model_lr_0.0001_batch_64.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 9,
+        "train_loss": 0.33173161012727653,
+        "best_val_loss": 0.2942817142063921,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.01_batch_16.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.30404347250746055,
+        "best_val_loss": 0.3077020724727349,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.01_batch_32.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 7,
+        "train_loss": 0.47800484150648115,
+        "best_val_loss": 0.3957553348758004,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.01_batch_64.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.33100155729109654,
+        "best_val_loss": 0.31524891098114577,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.001_batch_16.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.4563385552980683,
+        "best_val_loss": 0.43603402294895865,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.001_batch_32.pth"
+    },
+    {
+        "lr": 0.001,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.6464890485460107,
+        "best_val_loss": 0.5901723016392101,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.001_batch_64.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 10,
+        "train_loss": 0.8857156097956757,
+        "best_val_loss": 1.1234333049167287,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.0001_batch_16.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 32,
+        "kl_weight": 0.001,
+        "best_epoch": 6,
+        "train_loss": 1.277691547708078,
+        "best_val_loss": 1.4175080635330894,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.0001_batch_32.pth"
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 64,
+        "kl_weight": 0.001,
+        "best_epoch": 5,
+        "train_loss": 1.3610615795308894,
+        "best_val_loss": 1.4823355891487815,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/hyperparam_tuning\\best_model_lr_0.0001_batch_64.pth"
+    }
+]

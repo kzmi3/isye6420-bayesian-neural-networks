@@ -1,0 +1,22 @@
+[
+    {
+        "lr": 0.01,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 15,
+        "train_loss": 0.21057419461517068,
+        "best_val_loss": 0.2588741013272242,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/fine_tuning\\best_model_lr_0.01_batch_16.pth"
+    },
+    {
+        "lr": 0.01,
+        "batch_size": 16,
+        "kl_weight": 0.001,
+        "best_epoch": 11,
+        "train_loss": 0.31574020969159095,
+        "best_val_loss": 0.24859546531330456,
+        "random_seed": 42,
+        "checkpoint_path": "experiments/fine_tuning\\best_model_lr_0.01_batch_16.pth"
+    }
+]

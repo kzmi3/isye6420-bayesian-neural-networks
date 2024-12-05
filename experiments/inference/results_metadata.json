@@ -1,0 +1,18 @@
+{
+    "normal": {
+        "predictions_file": "experiments/inference\\normal_predictions.npy",
+        "kl_divergences_file": "experiments/inference\\normal_kl_divergences.npy"
+    },
+    "noncovid": {
+        "predictions_file": "experiments/inference\\noncovid_predictions.npy",
+        "kl_divergences_file": "experiments/inference\\noncovid_kl_divergences.npy"
+    },
+    "covid": {
+        "predictions_file": "experiments/inference\\covid_predictions.npy",
+        "kl_divergences_file": "experiments/inference\\covid_kl_divergences.npy"
+    },
+    "ood_transforms": {
+        "predictions_file": "experiments/inference\\ood_transforms_predictions.npy",
+        "kl_divergences_file": "experiments/inference\\ood_transforms_kl_divergences.npy"
+    }
+}
