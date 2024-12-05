@@ -8,7 +8,7 @@ This project explores uncertainty quantification in Bayesian neural networks (BN
 - `models/`: Includes the trained Bayesian ResNet models.
 - `plots/`: Visualization outputs such as confusion matrices, uncertainty metrics, and entropy distributions.
 - `utils/`: Utility scripts for data preprocessing, training, and evaluation.
-- `docs/`: [Project Report](ISYE6420_project_report.pdf) detailing methods, theory, results, and discussions.
+- `ISYE6420_project_report.pdf`: [Project Report](ISYE6420_project_report.pdf) detailing methods, theory, results, and discussions.
 - `data_analysis.ipynb`: [Notebook](data_analysis.ipynb) containing exploratory analysis, uncertainty metrics computation, and visualizations.
 
 ## Key Features
