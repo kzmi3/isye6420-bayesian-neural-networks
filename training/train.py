@@ -4,9 +4,7 @@ import torch.optim as optim
 import os
 import json
 import matplotlib.pyplot as plt
-from torch.utils.data import DataLoader
 from tqdm import tqdm
-from models.bayesian_models import BayesianResNet
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 from utils.misc import log_message, set_random_seed
 
