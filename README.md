@@ -1,6 +1,6 @@
 # Bayesian Neural Network Classification of Lung Radiographs
 
-This project explores uncertainty quantification in Bayesian neural networks (BNNs) for classifying lung radiographs, with a focus on out-of-distribution (OOD) detection using a Bayesian ResNet model. The model was trained on normal and non-COVID infection radiographs and used to predict COVID-19 infections and OOD-transformed normal radiographs. The study demonstrates the advantages and challenges of BNNs in medical imaging applications.
+This project explores uncertainty quantification in Bayesian neural networks (BNNs) for classifying lung radiographs. The model was trained on normal and non-COVID infection radiographs and evaluated on its ability to distinguish between these categories. Additionally, it was tested on COVID-19 infections and OOD-transformed normal radiographs to investigate whether measures of uncertainty could identify them as OOD. The study demonstrates the advantages and challenges of BNNs in medical imaging applications.
 
 ## Project Structure
 
